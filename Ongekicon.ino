@@ -104,7 +104,6 @@ void loop() {
   XInput.setButton(BUTTON_A, thumbR);
   XInput.setButton(BUTTON_L3, pinkyL);
   XInput.setButton(BUTTON_R3, pinkyR);
-  XInput.setButton(BUTTON_START, rightMenu);
 
   // Set XInput trigger values
   XInput.setTrigger(TRIGGER_LEFT, positionA);
